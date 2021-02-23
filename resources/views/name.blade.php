@@ -1,0 +1,1 @@
+<?php echo "Student's name: ".$name ?>

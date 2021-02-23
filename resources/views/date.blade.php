@@ -1,0 +1,1 @@
+<?php echo "Date of birth: ".$date_of_birth ?>
